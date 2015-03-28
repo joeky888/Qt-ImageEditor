@@ -1,0 +1,33 @@
+﻿Build started 3/24/2015 10:33:23 PM.
+     1>Project "C:\Users\cyborg\Desktop\Qt_Opengl_Framework\Qt_Opengl_Framework\Qt_Opengl_Framework.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Qt_Opengl_Framework.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         All outputs are up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\5.4\msvc2010_opengl\include /I.\GeneratedFiles\Release /IC:\Qt\5.4\msvc2010_opengl\include\QtCore /IC:\Qt\5.4\msvc2010_opengl\include\QtGui /IC:\Qt\5.4\msvc2010_opengl\include\QtWidgets /I\include\OGRE /I\boost /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Application.cpp
+         Application.cpp
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\cyborg\Desktop\Qt_Opengl_Framework\Win32\Release\\Qt_Opengl_Framework.exe" /NOLOGO /LIBPATH:C:\Qt\5.4\msvc2010_opengl\lib /LIBPATH:\lib\Release /LIBPATH:\boost\lib qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Widgets.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Qt_Opengl_Framework.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"C:\Users\cyborg\Desktop\Qt_Opengl_Framework\Win32\Release\Qt_Opengl_Framework.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\cyborg\Desktop\Qt_Opengl_Framework\Win32\Release\Qt_Opengl_Framework.lib" /MACHINE:X86 Release\Application.obj
+         Release\qrc_qt_opengl_framework.obj
+         Release\moc_MB.obj
+         Release\moc_OpenglRenderThread.obj
+         Release\moc_OpenglWidget.obj
+         Release\moc_qt_opengl_framework.obj
+         Release\main.obj
+         Release\MB.obj
+         Release\OpenglRenderThread.obj
+         Release\OpenglWidget.obj
+         Release\qt_opengl_framework.obj
+         Qt_Opengl_Framework.vcxproj -> C:\Users\cyborg\Desktop\Qt_Opengl_Framework\Win32\Release\Qt_Opengl_Framework.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\cyborg\Desktop\Qt_Opengl_Framework\Win32\Release\\Qt_Opengl_Framework.exe;#1" /manifest Release\Qt_Opengl_Framework.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\Qt_Opengl_Framework.unsuccessfulbuild".
+         Touching "Release\Qt_Opengl_Framework.lastbuildstate".
+     1>Done Building Project "C:\Users\cyborg\Desktop\Qt_Opengl_Framework\Qt_Opengl_Framework\Qt_Opengl_Framework.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.25

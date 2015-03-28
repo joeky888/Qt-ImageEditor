@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Qt_Ogre_Framework"/>
+    <qresource prefix="/image">
+        <file>image/cursor.png</file>
+    </qresource>
+</RCC>

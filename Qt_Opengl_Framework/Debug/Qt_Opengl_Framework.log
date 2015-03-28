@@ -1,0 +1,39 @@
+﻿Build started 2015/3/14 下午 04:48:49.
+     1>Project "H:\CGL2015S_0313\Qt_Opengl_Framework\Qt_Opengl_Framework\Qt_Opengl_Framework.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Qt_Opengl_Framework.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Uic'ing About.ui...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\5.4\msvc2010_opengl\include /I.\GeneratedFiles\Debug /IC:\Qt\5.4\msvc2010_opengl\include\QtCore /IC:\Qt\5.4\msvc2010_opengl\include\QtGui /IC:\Qt\5.4\msvc2010_opengl\include\QtWidgets /I\include\OGRE /I\boost /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Application.cpp GeneratedFiles\Debug\moc_qt_opengl_framework.cpp OpenglWidget.cpp main.cpp qt_opengl_framework.cpp
+         Application.cpp
+         moc_qt_opengl_framework.cpp
+         OpenglWidget.cpp
+         main.cpp
+         qt_opengl_framework.cpp
+         Generating Code...
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\CGL2015S_0313\Qt_Opengl_Framework\Win32\Debug\\Qt_Opengl_Framework.exe" /NOLOGO /LIBPATH:C:\Qt\5.4\msvc2010_opengl\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Qt_Opengl_Framework.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"H:\CGL2015S_0313\Qt_Opengl_Framework\Win32\Debug\Qt_Opengl_Framework.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\CGL2015S_0313\Qt_Opengl_Framework\Win32\Debug\Qt_Opengl_Framework.lib" /MACHINE:X86 Debug\Application.obj
+         Debug\moc_MB.obj
+         Debug\moc_OpenglRenderThread.obj
+         Debug\moc_OpenglWidget.obj
+         Debug\moc_qt_opengl_framework.obj
+         Debug\qrc_qt_opengl_framework.obj
+         Debug\main.obj
+         Debug\MB.obj
+         Debug\OpenglRenderThread.obj
+         Debug\OpenglWidget.obj
+         Debug\qt_opengl_framework.obj
+         LINK : H:\CGL2015S_0313\Qt_Opengl_Framework\Win32\Debug\\Qt_Opengl_Framework.exe not found or not built by the last incremental link; performing full link
+         Qt_Opengl_Framework.vcxproj -> H:\CGL2015S_0313\Qt_Opengl_Framework\Win32\Debug\Qt_Opengl_Framework.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"H:\CGL2015S_0313\Qt_Opengl_Framework\Win32\Debug\\Qt_Opengl_Framework.exe;#1" /manifest Debug\Qt_Opengl_Framework.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Qt_Opengl_Framework.unsuccessfulbuild".
+         Touching "Debug\Qt_Opengl_Framework.lastbuildstate".
+     1>Done Building Project "H:\CGL2015S_0313\Qt_Opengl_Framework\Qt_Opengl_Framework\Qt_Opengl_Framework.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.52
